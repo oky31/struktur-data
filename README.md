@@ -1,2 +1,7 @@
-# struktur-data
-Sebuah catatan hasil dari belajar struktur data
+# STRUKTUR DATA
+
+## KOMPLEKSITAS ALGORITMA
+
+## ARRAY
+
+## DYNAMIC ARRAY
