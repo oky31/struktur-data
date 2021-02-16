@@ -1,6 +1,7 @@
 # STRUKTUR DATA
 
 ## KOMPLEKSITAS ALGORITMA
+Apa itu kompleksitas algoritma ? 
 Notasi big O
 - konstant o(1)
 - logaritmik o(log n)
